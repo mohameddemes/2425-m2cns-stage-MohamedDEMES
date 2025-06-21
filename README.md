@@ -31,7 +31,7 @@ L’objectif de ce travail est d’explorer le potentiel des architectures moder
 
 ## 📊 Principaux résultats
 
-- Le **FT-Transformer** obtient les meilleures performances sur l’ensemble des métriques testées.
-- Certains modèles classiques restent néanmoins compétitifs selon les cas.
-- L’**explicabilité** s’avère essentielle pour une adoption en contexte métier.
+- Le **FT-Transformer** obtient des meilleures performances sur l’ensemble des métriques testées.
+- Certains modèles classiques restent néanmoins compétitifs.
+- L’analyse d’**explicabilité** a permis de mieux comprendre les décisions des modèles, renforçant ainsi leur crédibilité pour une utilisation en contexte métier.
 
