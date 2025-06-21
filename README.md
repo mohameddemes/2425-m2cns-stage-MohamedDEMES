@@ -1,4 +1,4 @@
-# Prédiction des impayés locatifs avec des modèles de deep learning pour données tabulaires
+# Prédiction des impayés locatifs avec le deep learning pour les données tabulaires
 
 Ce dépôt contient les notebooks utilisés dans le cadre de mon mémoire de fin d’études de Master, consacré à l’évaluation de modèles récents de deep learning pour la prédiction des impayés locatifs.
 
