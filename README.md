@@ -26,7 +26,7 @@ L’objectif de ce travail est d’explorer le potentiel des architectures moder
 - **Extraction et prétraitement des données** de facturation locative
 - **Application des modèles** à notre problème de classification binaire visant à prédire la présence ou non d’un impayé locatif
 - **Évaluation** des performances à l’aide de plusieurs métriques : Accuracy, F1-score, AUC
-- **Analyse d’explicabilité** avec SHAP et interprétation du mécanisme d’attention du FT-Transformer
+- **Explicabilité** à l’aide de SHAP et de l’analyse du mécanisme d’attention des Transformers
 - Les notebooks utilisent un jeu de données fourni dans le cadre du stage (non inclus dans le dépôt pour des raisons de confidentialité)
 
 ## 📊 Principaux résultats
